@@ -1,0 +1,117 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\Bil-GEZ.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\Bil-GEZ.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\Bil-GEZ.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Anaform.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.merkezform.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Giriş.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Kullanıcılar.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Seyhedebalı.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Tarihce.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Yapicalacaklar.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.HARİTA.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.fotolar.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Interop.WMPLib.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.csproj.ResolveComReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Video.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\Bil-GEZ.exe.config
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\Bil-GEZ.exe
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\Bil-GEZ.pdb
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\Interop.WMPLib.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Interop.WMPLib.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.csproj.ResolveComReference.cache
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Anaform.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.fotolar.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Giriş.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.HARİTA.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Kullanıcılar.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.merkezform.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Properties.Resources.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Seyhedebalı.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Tarihce.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Video.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.Yapicalacaklar.resources
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.exe
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil-GEZ.pdb
+C:\Users\baxan\Desktop\Bil-GEZ\Bil-GEZ\obj\Debug\Bil_GEZ.öğüt.resources
