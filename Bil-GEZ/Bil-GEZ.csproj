@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E4DF7F73-765E-4676-B865-B3F4619AE4EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bil_GEZ</RootNamespace>
+    <AssemblyName>Bil-GEZ</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>placeholder.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v18.1.Core, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anaform.Designer.cs">
+      <DependentUpon>Anaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fotolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fotolar.Designer.cs">
+      <DependentUpon>fotolar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giriş.Designer.cs">
+      <DependentUpon>Giriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HARİTA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HARİTA.Designer.cs">
+      <DependentUpon>HARİTA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanıcılar.Designer.cs">
+      <DependentUpon>Kullanıcılar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="merkezform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="merkezform.Designer.cs">
+      <DependentUpon>merkezform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seyhedebalı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seyhedebalı.Designer.cs">
+      <DependentUpon>Seyhedebalı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tarihce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tarihce.Designer.cs">
+      <DependentUpon>Tarihce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Video.Designer.cs">
+      <DependentUpon>Video.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yapicalacaklar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yapicalacaklar.Designer.cs">
+      <DependentUpon>Yapicalacaklar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="öğüt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="öğüt.Designer.cs">
+      <DependentUpon>öğüt.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anaform.resx">
+      <DependentUpon>Anaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fotolar.resx">
+      <DependentUpon>fotolar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giriş.resx">
+      <DependentUpon>Giriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HARİTA.resx">
+      <DependentUpon>HARİTA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanıcılar.resx">
+      <DependentUpon>Kullanıcılar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="merkezform.resx">
+      <DependentUpon>merkezform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Seyhedebalı.resx">
+      <DependentUpon>Seyhedebalı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tarihce.resx">
+      <DependentUpon>Tarihce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Video.resx">
+      <DependentUpon>Video.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yapicalacaklar.resx">
+      <DependentUpon>Yapicalacaklar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="öğüt.resx">
+      <DependentUpon>öğüt.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="placeholder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
